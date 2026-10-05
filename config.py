@@ -72,7 +72,7 @@ GROUPS = [
     },
     {
         "n": 3,
-        "cap": 6,
+        "cap": 7,
         "leader": "Kelvin Kalama Tsuwi",
         "stations": [
             "RUBIS EKA TANO",
@@ -81,7 +81,7 @@ GROUPS = [
     },
     {
         "n": 4,
-        "cap": 6,
+        "cap": 7,
         "leader": "Sharon Mbathe Mutua",
         "stations": [
             "RUBIS SIGONA",
@@ -91,7 +91,7 @@ GROUPS = [
     },
     {
         "n": 5,
-        "cap": 6,
+        "cap": 7,
         "leader": "Carol Wairimu Gitau",
         "stations": [
             "RUBIS RIRONI",
@@ -100,7 +100,7 @@ GROUPS = [
     },
     {
         "n": 6,
-        "cap": 6,
+        "cap": 7,
         "leader": "Benedict Barasa Sikalabo",
         "stations": [
             "RUBIS KOINANGE",
@@ -110,7 +110,7 @@ GROUPS = [
     },
     {
         "n": 7,
-        "cap": 6,
+        "cap": 7,
         "leader": "Jacqueline Mutile Ndolo",
         "stations": [
             "RUBIS WAIYAKI WAY",
